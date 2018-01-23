@@ -40,3 +40,7 @@ C:\Users\Pavlo\Documents\GitHub\MVCMetanit\MVCTest\MVCTest\MVCTest\obj\Debug\MVC
 C:\Users\Pavlo\Documents\GitHub\MVCMetanit\MVCTest\MVCTest\MVCTest\obj\Debug\MVCTest.csproj.CoreCompileInputs.cache
 C:\Users\Pavlo\Documents\GitHub\MVCMetanit\MVCTest\MVCTest\MVCTest\obj\Debug\MVCTest.dll
 C:\Users\Pavlo\Documents\GitHub\MVCMetanit\MVCTest\MVCTest\MVCTest\obj\Debug\MVCTest.pdb
+C:\Users\Pavlo\Documents\GitHub\MVCMetanit\MVCTest\MVCTest\MVCTest\bin\EntityFramework.dll
+C:\Users\Pavlo\Documents\GitHub\MVCMetanit\MVCTest\MVCTest\MVCTest\bin\EntityFramework.SqlServer.dll
+C:\Users\Pavlo\Documents\GitHub\MVCMetanit\MVCTest\MVCTest\MVCTest\bin\EntityFramework.xml
+C:\Users\Pavlo\Documents\GitHub\MVCMetanit\MVCTest\MVCTest\MVCTest\bin\EntityFramework.SqlServer.xml
